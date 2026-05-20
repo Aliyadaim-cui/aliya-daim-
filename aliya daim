@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Aliya Daim</title>
+</head>
+<body background-color="lightblue">
+
+  <!-- Main Heading -->
+  <h1 style="color: darkblue;">Aliya Daim</h1>
+
+  <!-- Introduction -->
+  <h2>About Me</h2>
+  <p>Hi! My name is Aliya Daim. I am a 1st semester
+  student learning HTML and Computer Science.</p>
+
+  <!-- Department -->
+  <h2 style="color: green;">My Department</h2>
+  <p>ELC — Electronics and Computing | CSC101</p>
+
+  <!-- Skills -->
+  <h2 style="color: red;">My Skills & Interests</h2>
+  <ul>
+    <li>HTML & CSS</li>
+    <li>Reading</li>
+    <li>Gardening</li>
+    <li>Travelling</li>
+    <li>Problem Solving</li>
+  </ul>
+
+  <!-- GitHub -->
+  <h2>My GitHub</h2>
+  <p>Username:
+    <a href="https://github.com/Aliyadaim-cui">
+      Aliyadaim-cui
+    </a>
+  </p>
+
+  <!-- Future Goal -->
+  <h2 style="color: purple;">My Future Goal</h2>
+  <p>My goal is to become a good programmer
+  and build useful applications.</p>
+
+</body>
+</html>
